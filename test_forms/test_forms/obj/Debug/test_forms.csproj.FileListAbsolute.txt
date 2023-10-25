@@ -1,0 +1,14 @@
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\bin\Debug\test_forms.exe.config
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\bin\Debug\test_forms.exe
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\bin\Debug\test_forms.pdb
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.csproj.AssemblyReference.cache
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.Form1.resources
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.NovaHra.resources
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.Properties.Resources.resources
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.exe
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.pdb
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.Ulozeni.resources
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.Nastaveni.resources
+C:\Users\syrovym.05\source\repos\test_forms\test_forms\obj\Debug\test_forms.Ukonceni.resources
